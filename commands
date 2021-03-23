@@ -1,0 +1,6 @@
+crontab -l
+1 9 * * * /usr/bin/python3 /home/ec2-user/moodbuster/message_policy.py >> ~/cron_policy.log 2>&1
+1 13 * * * /usr/bin/python3 /home/ec2-user/moodbuster/message_policy.py >> ~/cron_policy.log 2>&1
+1 20 * * * /usr/bin/python3 /home/ec2-user/moodbuster/message_policy.py >> ~/cron_policy.log 2>&1
+30 23 * * * /usr/bin/python3 /home/ec2-user/moodbuster/batch_train.py >> ~/cron_batch_train.log 2>&
+

@@ -1,0 +1,4 @@
+pandas==0.19.2
+numpy==1.12.1
+pprint
+boto3

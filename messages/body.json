@@ -1,0 +1,49 @@
+{
+  "encouraging": {
+    "positive_neutral_mood": [
+      "It seems like you’re on the right track! Keep up the good work!",
+      "Good to see that you are doing well. Good luck continuing Moodbuster Lite.",
+      "You are making a lot of progress! You can be proud of yourself!"],
+    "negative_neutral_mood": [
+      "It is good that you take part in Moodbuster Lite. You can commend yourself for that!",
+      "Good that you are still rating your mood on a regular basis! Keep up the good work!",
+      "It’s great that you are making time for yourself to improve your mood!"],
+    "mood_unavailable": [
+      "It may sometimes be difficult to engage in a training like Moodbuster Lite, but you can do it!",
+      "Good that you started with Moodbuster Lite this is already a first step.",
+      "It may be difficult to always keep the training and mood ratings on mind, but it’s great that you already started.",
+      "Don’t give up if you haven’t rated your mood."]
+  },
+  "informing": {
+    "all": [
+      "Don’t forget to set a reminder in order to not forget about your scheduled pleasant activities.",
+      "Do you know you can always review the material of sessions if you need it?",
+      "In your calendar, you can see the activities which you planned in the past.",
+      "It is good to track what pleasant activities you did.",
+      "Do not forget to rate your mood three times per day.",
+      "Did you forget what pleasant activities to do? You can always check your notes on the website.",
+      "It is sometimes helpful to re-read the content of the training to refresh your knowledge.",
+      "Reminders may help you to not forget about the pleasant activities.",
+      "It’s good to keep track of what pleasant activities you do and how your mood is."]
+  },
+  "affirming": {
+    "positive_neutral_mood": [
+      "Good to see that you are doing well.",
+      "Even if you don’t rate your mood at some point, don’t worry, it may be hard to always think about it.",
+      "I am happy to see that you feel well."],
+    "negative_neutral_mood": [
+      "It is very common to sometimes have low mood, so do not worry if that happens.",
+      "It may be difficult to always keep the training and mood ratings on mind, but it is important for your well-being.",
+      "Many people sometimes feel sad, this is nothing to worry about.",
+      "It must be complicated to engage in this training, so it’s completely fine if you sometimes feel that way.",
+      "Struggling to find the time to do the scheduled pleasant activities is completely normal, so do not worry if it ever happens to you."],
+    "mood_unavailable": [
+      "Don’t get discouraged if you forget to rate your mood sometimes, it’s normal.",
+      "It is completely normal to sometimes feel demotivated.",
+      "If you keep forgetting to do the pleasant activities? It will be ok! Don’t give up!",
+      "Do you often feel tired? That can easily happen when doing a training like this!",
+      "It can be hard to think constantly about rating your mood.",
+      "Struggling to find the time to do the scheduled pleasant activities is completely normal, so do not worry if it ever happens to you.",
+      "It must be complicated to engage in this training, so it’s completely fine if you sometimes feel that way."]
+  }
+}
